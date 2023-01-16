@@ -4,3 +4,4 @@
 
 - Strogonoff de Carne
 - Bobó de Camarão
+- Lasanha de Frango
